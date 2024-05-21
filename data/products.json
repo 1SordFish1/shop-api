@@ -3,90 +3,120 @@
     "id": 1,
     "name": "Naruto",
     "price": 9.99,
-    "author": "Masashi Kishimoto"
+    "author": "Masashi Kishimoto",
+    "description": "Naruto Uzumaki, a young ninja with a sealed demon fox inside him, embarks on a journey to become the strongest ninja and gain the recognition of his village.",
+    "rating": 4.8
   },
   {
     "id": 2,
     "name": "One Piece",
     "price": 8.99,
-    "author": "Eiichiro Oda"
+    "author": "Eiichiro Oda",
+    "description": "Monkey D. Luffy sets out on an epic adventure to find the legendary One Piece treasure and become the Pirate King, facing numerous challenges with his crew.",
+    "rating": 4.9
   },
   {
     "id": 3,
     "name": "Attack on Titan",
-    "price": 12.99,
-    "author": "Hajime Isayama"
+    "price": 10.99,
+    "author": "Hajime Isayama",
+    "description": "In a world besieged by gigantic humanoid Titans, Eren Yeager and his friends join the military to fight for humanity's survival and uncover the secrets behind the Titans.",
+    "rating": 4.7
   },
   {
     "id": 4,
     "name": "My Hero Academia",
     "price": 7.99,
-    "author": "Kohei Horikoshi"
+    "author": "Kohei Horikoshi",
+    "description": "Izuku Midoriya, a boy born without superpowers in a world where they are common, dreams of becoming a hero. He enrolls in U.A. High School to make his dream a reality.",
+    "rating": 4.6
   },
   {
     "id": 5,
     "name": "Dragon Ball",
     "price": 9.49,
-    "author": "Akira Toriyama"
+    "author": "Akira Toriyama",
+    "description": "Follow the adventures of Goku as he trains in martial arts and explores the world in search of the seven Dragon Balls, which can summon a wish-granting dragon.",
+    "rating": 4.8
   },
   {
     "id": 6,
     "name": "Death Note",
     "price": 8.49,
-    "author": "Tsugumi Ohba"
+    "author": "Tsugumi Ohba",
+    "description": "Light Yagami discovers a mysterious notebook that grants the power to kill anyone whose name is written in it. He decides to use it to rid the world of criminals.",
+    "rating": 4.9
   },
   {
     "id": 7,
     "name": "Fullmetal Alchemist",
     "price": 11.99,
-    "author": "Hiromu Arakawa"
+    "author": "Hiromu Arakawa",
+    "description": "Brothers Edward and Alphonse Elric use alchemy in their quest to find the Philosopher's Stone to restore their bodies after a failed alchemical experiment.",
+    "rating": 4.9
   },
   {
     "id": 8,
     "name": "Sword Art Online",
     "price": 9.89,
-    "author": "Reki Kawahara"
+    "author": "Reki Kawahara",
+    "description": "Players of a virtual reality MMORPG find themselves trapped in the game, where dying in the game means dying in real life. Kirito fights to survive and escape.",
+    "rating": 4.5
   },
   {
     "id": 9,
     "name": "Demon Slayer",
     "price": 12.99,
-    "author": "Koyoharu Gotouge"
+    "author": "Koyoharu Gotouge",
+    "description": "Tanjiro Kamado becomes a demon slayer to avenge his family and cure his sister, Nezuko, who has been turned into a demon. Together, they battle demons across Japan.",
+    "rating": 4.8
   },
   {
     "id": 10,
     "name": "Tokyo Ghoul",
     "price": 8.99,
-    "author": "Sui Ishida"
+    "author": "Sui Ishida",
+    "description": "Ken Kaneki, a college student, survives a deadly encounter with a ghoul, only to become half-ghoul himself. He must adapt to his new life while hiding his identity.",
+    "rating": 4.7
   },
   {
     "id": 11,
     "name": "Bleach",
     "price": 8.99,
-    "author": "Tite Kubo"
+    "author": "Tite Kubo",
+    "description": "Ichigo Kurosaki gains the abilities of a Soul Reaper and battles malevolent spirits known as Hollows while protecting the living and guiding souls to the afterlife.",
+    "rating": 4.6
   },
   {
     "id": 12,
     "name": "Fairy Tail",
     "price": 7.49,
-    "author": "Hiro Mashima"
+    "author": "Hiro Mashima",
+    "description": "Lucy Heartfilia joins the Fairy Tail guild and teams up with Natsu Dragneel, a fire-breathing dragon slayer, on thrilling quests and battles against dark forces.",
+    "rating": 4.5
   },
   {
     "id": 13,
     "name": "Black Clover",
     "price": 9.29,
-    "author": "Yūki Tabata"
+    "author": "Yūki Tabata",
+    "description": "Asta, a boy born without magic in a magical world, dreams of becoming the Wizard King. He joins the Black Bulls squad and faces numerous magical challenges.",
+    "rating": 4.6
   },
   {
     "id": 14,
     "name": "One Punch Man",
     "price": 9.99,
-    "author": "ONE"
+    "author": "ONE",
+    "description": "Saitama, a hero who can defeat any opponent with a single punch, struggles with boredom and a lack of worthy challenges in a world filled with monsters and villains.",
+    "rating": 4.7
   },
   {
     "id": 15,
     "name": "JoJo's Bizarre Adventure",
     "price": 10.49,
-    "author": "Hirohiko Araki"
+    "author": "Hirohiko Araki",
+    "description": "The Joestar family fights evil supernatural forces across generations, each member wielding unique powers and encountering bizarre, thrilling adventures.",
+    "rating": 4.8
   }
 ]
