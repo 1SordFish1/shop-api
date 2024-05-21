@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto",
+    "price": 9.99,
+    "author": "Masashi Kishimoto"
+  },
+  {
+    "id": 2,
+    "name": "One Piece",
+    "price": 8.99,
+    "author": "Eiichiro Oda"
+  },
+  {
+    "id": 3,
+    "name": "Attack on Titan",
+    "price": 12.99,
+    "author": "Hajime Isayama"
+  },
+  {
+    "id": 4,
+    "name": "My Hero Academia",
+    "price": 7.99,
+    "author": "Kohei Horikoshi"
+  },
+  {
+    "id": 5,
+    "name": "Dragon Ball",
+    "price": 9.49,
+    "author": "Akira Toriyama"
+  },
+  {
+    "id": 6,
+    "name": "Death Note",
+    "price": 8.49,
+    "author": "Tsugumi Ohba"
+  },
+  {
+    "id": 7,
+    "name": "Fullmetal Alchemist",
+    "price": 11.99,
+    "author": "Hiromu Arakawa"
+  },
+  {
+    "id": 8,
+    "name": "Sword Art Online",
+    "price": 9.89,
+    "author": "Reki Kawahara"
+  },
+  {
+    "id": 9,
+    "name": "Demon Slayer",
+    "price": 12.99,
+    "author": "Koyoharu Gotouge"
+  },
+  {
+    "id": 10,
+    "name": "Tokyo Ghoul",
+    "price": 8.99,
+    "author": "Sui Ishida"
+  },
+  {
+    "id": 11,
+    "name": "Bleach",
+    "price": 8.99,
+    "author": "Tite Kubo"
+  },
+  {
+    "id": 12,
+    "name": "Fairy Tail",
+    "price": 7.49,
+    "author": "Hiro Mashima"
+  },
+  {
+    "id": 13,
+    "name": "Black Clover",
+    "price": 9.29,
+    "author": "Yūki Tabata"
+  },
+  {
+    "id": 14,
+    "name": "One Punch Man",
+    "price": 9.99,
+    "author": "ONE"
+  },
+  {
+    "id": 15,
+    "name": "JoJo's Bizarre Adventure",
+    "price": 10.49,
+    "author": "Hirohiko Araki"
+  }
+]
