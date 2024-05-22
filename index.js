@@ -3,6 +3,7 @@ const app = express();
 const port = 7000;
 
 app.use(express.json());
+app.use('/data/images', express.static('data/images'));
 const s1 = require('./routes/s1');
 app.use('/s1', s1);
 
