@@ -18,6 +18,7 @@ router.get('/hello', appController.hello);
 router.get('/products', appController.getProducts);
 router.get('/products/:id', appController.getProductById);
 router.post('/addProduct', upload.single('image'), appController.addProduct);
-router.post('/update/:id', upload.single('image'), appController.updateProduct);
+router.put('/update/:id', upload.single('image'), appController.updateProduct);
+router.delete('/delete/:id', appController.deleteProduct);
 
 module.exports = router;

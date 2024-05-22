@@ -4,7 +4,7 @@
     "name": "Naruto",
     "price": 9.99,
     "author": "Masashi Kishimoto",
-    "description": "Naruto Uzumaki, a young ninja with a sealed demon fox inside him, embarks on a journey to become the strongest ninja and gain the recognition of his village.",
+    "description": "Naruto Uzumaki, a young ninja with a sealed demon fox inside him, embarks on a journey to become the strongest ninja and gain the recognition of his village. Born without parents and ostracized by the villagers, Naruto's determination and unwavering spirit drive him to train hard and overcome numerous challenges. Along his journey, he forms strong bonds with his teammates, Sakura Haruno and Sasuke Uchiha, and his mentor, Kakashi Hatake. As Naruto grows, he faces various enemies and learns about the true nature of his powers and the dark forces threatening his world. His ultimate goal is to achieve his dream of becoming Hokage, the village's leader, and protector. Through his adventures, Naruto learns about friendship, sacrifice, and the importance of never giving up, no matter the odds.",
     "rating": 4.8,
     "image": "naruto.jpg"
   },
@@ -13,7 +13,7 @@
     "name": "One Piece",
     "price": 8.99,
     "author": "Eiichiro Oda",
-    "description": "Monkey D. Luffy sets out on an epic adventure to find the legendary One Piece treasure and become the Pirate King, facing numerous challenges with his crew.",
+    "description": "Monkey D. Luffy sets out on an epic adventure to find the legendary One Piece treasure and become the Pirate King, facing numerous challenges with his crew. With his unique ability to stretch his body like rubber, thanks to eating the Gum-Gum Fruit, Luffy assembles a diverse crew of pirates, each with their unique skills and dreams. Together, they sail the treacherous Grand Line, battling powerful foes, exploring mysterious islands, and uncovering ancient secrets. Luffy's journey is driven by his unbreakable spirit and unwavering belief in his friends. The series is renowned for its imaginative world-building, intricate plotlines, and deeply emotional moments that explore themes of freedom, justice, and the pursuit of dreams. As the Straw Hat Pirates grow stronger, they challenge the oppressive forces of the world, seeking to create a better future for all.",
     "rating": 4.9,
     "image": "one piece.jpg"
   },
@@ -22,7 +22,7 @@
     "name": "Attack on Titan",
     "price": 10.99,
     "author": "Hajime Isayama",
-    "description": "In a world besieged by gigantic humanoid Titans, Eren Yeager and his friends join the military to fight for humanity's survival and uncover the secrets behind the Titans.",
+    "description": "In a world besieged by gigantic humanoid Titans, Eren Yeager and his friends join the military to fight for humanity's survival and uncover the secrets behind the Titans. The story begins with a catastrophic attack on Eren's hometown, leading to the loss of his mother and sparking his intense hatred for the Titans. Alongside his adopted sister, Mikasa Ackerman, and his friend, Armin Arlert, Eren vows to eradicate the Titans and bring peace to humanity. As they join the elite Survey Corps, they encounter terrifying battles, uncover shocking truths about their world, and question the true nature of their enemies. The series delves into complex themes of freedom, sacrifice, and the human condition, presenting morally gray characters and intense, action-packed scenes. Eren's journey is one of self-discovery, resilience, and the relentless pursuit of a seemingly impossible goal.",
     "rating": 4.7,
     "image": "aot.png"
   },
@@ -31,7 +31,7 @@
     "name": "My Hero Academia",
     "price": 7.99,
     "author": "Kohei Horikoshi",
-    "description": "Izuku Midoriya, a boy born without superpowers in a world where they are common, dreams of becoming a hero. He enrolls in U.A. High School to make his dream a reality.",
+    "description": "Izuku Midoriya, a boy born without superpowers in a world where they are common, dreams of becoming a hero. He enrolls in U.A. High School to make his dream a reality. Despite being 'Quirkless,' Izuku's determination and heroic spirit catch the attention of the world's greatest hero, All Might, who passes on his powerful Quirk, 'One For All,' to him. With his new abilities, Izuku faces rigorous training, daunting challenges, and fierce competitions at U.A. High, a prestigious academy for aspiring heroes. Alongside his classmates, Izuku learns the true meaning of heroism, facing dangerous villains and uncovering dark secrets about the world of heroes and villains. The series explores themes of courage, self-sacrifice, and the importance of legacy, as Izuku strives to become the number one hero and live up to All Might's expectations. Through trials and tribulations, he learns that being a hero is not just about having powers, but about having the heart and spirit to protect others.",
     "rating": 4.6,
     "image": "my-hero.jpg"
   },
@@ -40,7 +40,7 @@
     "name": "Dragon Ball",
     "price": 9.49,
     "author": "Akira Toriyama",
-    "description": "Follow the adventures of Goku as he trains in martial arts and explores the world in search of the seven Dragon Balls, which can summon a wish-granting dragon.",
+    "description": "Follow the adventures of Goku as he trains in martial arts and explores the world in search of the seven Dragon Balls, which can summon a wish-granting dragon. Starting as a young boy with a tail and incredible strength, Goku's journey is filled with thrilling battles, powerful enemies, and loyal friends. As he grows, he learns about his Saiyan heritage, a race of warriors, and faces increasingly formidable foes, from the ruthless Saiyan prince Vegeta to the tyrannical Frieza. Alongside his friends, including Bulma, Krillin, and Piccolo, Goku participates in epic tournaments and defends Earth from various threats. The series is known for its intense fight scenes, iconic transformations, and Goku's unwavering spirit and sense of justice. Dragon Ball is a tale of perseverance, friendship, and the endless quest for self-improvement, inspiring generations of fans worldwide.",
     "rating": 4.8,
     "image": "dragon-ball.jpg"
   },
@@ -49,7 +49,7 @@
     "name": "Death Note",
     "price": 8.49,
     "author": "Tsugumi Ohba",
-    "description": "Light Yagami discovers a mysterious notebook that grants the power to kill anyone whose name is written in it. He decides to use it to rid the world of criminals.",
+    "description": "Light Yagami discovers a mysterious notebook that grants the power to kill anyone whose name is written in it. He decides to use it to rid the world of criminals. With his newfound power, Light adopts the persona of 'Kira' and embarks on a quest to create a utopia free of crime. However, his actions attract the attention of the enigmatic detective known only as 'L,' leading to a high-stakes game of cat and mouse. As Light's sense of justice becomes increasingly twisted, he is willing to manipulate, deceive, and even kill to achieve his vision. The series explores themes of morality, justice, and the corrupting influence of absolute power. Through its complex characters and psychological battles, Death Note challenges the reader to consider the ethical implications of taking the law into one's own hands.",
     "rating": 4.9,
     "image": "death-note.jpg"
   },
@@ -58,7 +58,7 @@
     "name": "Fullmetal Alchemist",
     "price": 11.99,
     "author": "Hiromu Arakawa",
-    "description": "Brothers Edward and Alphonse Elric use alchemy in their quest to find the Philosopher's Stone to restore their bodies after a failed alchemical experiment.",
+    "description": "Brothers Edward and Alphonse Elric use alchemy in their quest to find the Philosopher's Stone to restore their bodies after a failed alchemical experiment. Following the loss of their mother, the brothers attempt to bring her back using alchemy, but the process goes horribly wrong. Edward loses an arm and a leg, while Alphonse's soul is bound to a suit of armor. Determined to regain their original bodies, they join the military as State Alchemists, gaining access to powerful resources and knowledge. Their journey takes them across a war-torn land filled with political intrigue, dangerous enemies, and dark secrets about the nature of alchemy. Along the way, they encounter allies and adversaries, each with their own motivations and stories. The series is a deep exploration of themes such as the cost of ambition, the value of human life, and the bonds of brotherhood. Through their trials, the Elric brothers learn that the true strength lies not in their alchemical abilities but in their unbreakable spirit and determination to do what is right.",
     "rating": 4.9,
     "image": "fullmetal.jpg"
   },
@@ -67,7 +67,7 @@
     "name": "Sword Art Online",
     "price": 9.89,
     "author": "Reki Kawahara",
-    "description": "Players of a virtual reality MMORPG find themselves trapped in the game, where dying in the game means dying in real life. Kirito fights to survive and escape.",
+    "description": "Players of a virtual reality MMORPG find themselves trapped in the game, where dying in the game means dying in real life. Kirito fights to survive and escape. As one of the few beta testers, Kirito has an edge in the game, but he soon realizes that surviving in Sword Art Online requires more than just skill. He forms alliances and friendships, including with the talented player Asuna, as they strive to reach the game's highest level and defeat the final boss. The series delves into the psychological and emotional toll of being trapped in a virtual world, exploring themes of identity, reality, and the human connection. Each arc introduces new worlds, challenges, and enemies, keeping the story fresh and engaging. Kirito's journey is one of courage, resilience, and the unyielding will to protect those he cares about, making Sword Art Online a captivating tale of adventure and survival.",
     "rating": 4.5,
     "image": "sao.png"
   },
@@ -76,7 +76,7 @@
     "name": "Demon Slayer",
     "price": 12.99,
     "author": "Koyoharu Gotouge",
-    "description": "Tanjiro Kamado becomes a demon slayer to avenge his family and cure his sister, Nezuko, who has been turned into a demon. Together, they battle demons across Japan.",
+    "description": "Tanjiro Kamado becomes a demon slayer to avenge his family and cure his sister, Nezuko, who has been turned into a demon. Together, they battle demons across Japan. After a demon attack leaves his family slaughtered and his sister cursed, Tanjiro vows to protect her and find a cure. He joins the Demon Slayer Corps, a secret organization dedicated to exterminating demons. Under the guidance of skilled mentors, Tanjiro hones his swordsmanship and develops unique breathing techniques to enhance his combat abilities. The series is renowned for its breathtaking artwork, intense action scenes, and deep emotional resonance. Tanjiro's journey is one of love, sacrifice, and determination, as he faces powerful demons, uncovers dark secrets, and fights to save his sister. Through his battles, he learns the importance of empathy and understanding, even towards his enemies.",
     "rating": 4.8,
     "image": "demon slayer.png"
   },
@@ -85,7 +85,7 @@
     "name": "Tokyo Ghoul",
     "price": 8.99,
     "author": "Sui Ishida",
-    "description": "Ken Kaneki, a college student, survives a deadly encounter with a ghoul, only to become half-ghoul himself. He must adapt to his new life while hiding his identity.",
+    "description": "Ken Kaneki, a college student, survives a deadly encounter with a ghoul, only to become half-ghoul himself. He must adapt to his new life while hiding his identity. Struggling with his new existence, Ken finds himself caught between the human world and the ghoul underworld. He learns to control his ghoul powers and survive in a society that hunts his kind. Along the way, he meets other ghouls, each with their own tragic stories and unique abilities. The series delves into themes of identity, humanity, and the struggle for survival in a world that fears and misunderstands ghouls. Ken's journey is one of pain, growth, and self-discovery as he navigates his dual identity and fights to protect those he cares about. Tokyo Ghoul is a dark, gripping tale that challenges perceptions of good and evil, offering a deep and nuanced exploration of its characters and their struggles.",
     "rating": 4.7,
     "image": "tokyo ghoul.jpg"
   },
@@ -94,7 +94,7 @@
     "name": "Bleach",
     "price": 8.99,
     "author": "Tite Kubo",
-    "description": "Ichigo Kurosaki gains the abilities of a Soul Reaper and battles malevolent spirits known as Hollows while protecting the living and guiding souls to the afterlife.",
+    "description": "Ichigo Kurosaki gains the abilities of a Soul Reaper and battles malevolent spirits known as Hollows while protecting the living and guiding souls to the afterlife. After an encounter with the Soul Reaper Rukia Kuchiki, Ichigo inherits her powers and takes on her duties. He quickly learns that the world of the Soul Reapers is filled with complex hierarchies, powerful enemies, and ancient secrets. With the help of his friends, each with their own unique abilities, Ichigo faces formidable foes, including the enigmatic Aizen and his army of Arrancars. The series is known for its stylish artwork, intense battles, and deep exploration of the afterlife and spiritual realms. Ichigo's journey is one of growth, as he learns to balance his human life with his responsibilities as a Soul Reaper, uncovering the true nature of his powers and his role in the cosmic order.",
     "rating": 4.6,
     "image": "bleach.jpg"
   },
@@ -103,7 +103,7 @@
     "name": "Fairy Tail",
     "price": 7.49,
     "author": "Hiro Mashima",
-    "description": "Lucy Heartfilia joins the Fairy Tail guild and teams up with Natsu Dragneel, a fire-breathing dragon slayer, on thrilling quests and battles against dark forces.",
+    "description": "Lucy Heartfilia joins the Fairy Tail guild and teams up with Natsu Dragneel, a fire-breathing dragon slayer, on thrilling quests and battles against dark forces. As a newcomer to the world of magic, Lucy is initially overwhelmed by the chaotic and unpredictable nature of Fairy Tail. However, she quickly forms strong bonds with her guildmates, including the ice mage Gray Fullbuster, the armored warrior Erza Scarlet, and the mischievous cat Happy. Together, they take on dangerous missions, uncover ancient secrets, and confront powerful enemies, from dark guilds to rogue mages. The series is known for its humor, heartwarming moments, and epic battles, exploring themes of friendship, loyalty, and the strength that comes from unity. Through their adventures, Lucy and her friends learn that true power lies in their bonds and the unwavering support they give each other, no matter the odds.",
     "rating": 4.5,
     "image": "fairy tail.jpg"
   },
@@ -112,7 +112,7 @@
     "name": "Black Clover",
     "price": 9.29,
     "author": "Yūki Tabata",
-    "description": "Asta, a boy born without magic in a magical world, dreams of becoming the Wizard King. He joins the Black Bulls squad and faces numerous magical challenges.",
+    "description": "Asta, a boy born without magic in a magical world, dreams of becoming the Wizard King. He joins the Black Bulls squad and faces numerous magical challenges. Despite being born without magic, Asta's determination and physical prowess make him a formidable warrior. He wields an ancient, anti-magic sword that can nullify magical attacks, making him a valuable asset to his squad. Alongside his rival Yuno, a prodigious mage with immense magical power, Asta strives to prove himself in a world that looks down on the powerless. The series follows their journey as they face powerful enemies, uncover dark secrets about their world, and grow stronger with each battle. Black Clover explores themes of perseverance, rivalry, and the importance of never giving up, no matter the obstacles. Asta's journey is one of self-discovery and unwavering resolve to achieve his dreams and protect those he cares about.",
     "rating": 4.6,
     "image": "black clover.jpg"
   },
@@ -121,7 +121,7 @@
     "name": "One Punch Man",
     "price": 9.99,
     "author": "ONE",
-    "description": "Saitama, a hero who can defeat any opponent with a single punch, struggles with boredom and a lack of worthy challenges in a world filled with monsters and villains.",
+    "description": "Saitama, a hero who can defeat any opponent with a single punch, struggles with boredom and a lack of worthy challenges in a world filled with monsters and villains. After rigorous training, Saitama becomes the strongest hero in existence, but his overwhelming power leaves him unfulfilled and yearning for a real fight. Despite his disinterest, he joins the Hero Association and takes on various missions, often overshadowed by other heroes who seek fame and recognition. The series is a satirical take on the superhero genre, blending humor with intense action and exploring themes of purpose, fulfillment, and the true nature of heroism. Saitama's journey is one of self-discovery as he navigates a world that constantly underestimates him, learning that true heroism lies not in strength alone but in the heart and spirit to protect others.",
     "rating": 4.7,
     "image": "opm.jpg"
   },
@@ -130,7 +130,7 @@
     "name": "JoJo's Bizarre Adventure",
     "price": 10.49,
     "author": "Hirohiko Araki",
-    "description": "The Joestar family fights evil supernatural forces across generations, each member wielding unique powers and encountering bizarre, thrilling adventures.",
+    "description": "The Joestar family fights evil supernatural forces across generations, each member wielding unique powers and encountering bizarre, thrilling adventures. Spanning multiple arcs, each focusing on a different member of the Joestar bloodline, the series is known for its imaginative storytelling, eccentric characters, and iconic 'Stand' abilities. From the stone mask that transforms humans into vampires to the psychic manifestations of Stands, JoJo's Bizarre Adventure is a tale of epic battles and intricate plotlines. Each JoJo faces their own unique challenges, from Jonathan's fight against the vampire Dio Brando to Jotaro's battle with powerful Stand users. The series explores themes of destiny, family, and the eternal struggle between good and evil. Its distinctive art style and creative use of powers have made it a beloved classic, influencing many other works in the genre.",
     "rating": 4.8,
     "image": "jojo.png"
   }

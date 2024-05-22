@@ -94,7 +94,11 @@ const updateProduct = async function (req, res) {
     const productIndex = jsonData.findIndex(obj => obj.id === productId);
     if (productIndex !== -1) {
       const updatedObject = req.body;
+      if (Object.keys(updatedObject).length === 0 && req.file === null) {
+        return res.status(400).send('No values to update');
+      }
       const product = jsonData[productIndex];
+      console.log('prd...', product);
       product.name = updatedObject.name || product.name;
       product.price = updatedObject.price || product.price;
       product.author = updatedObject.author || product.author;
@@ -103,6 +107,7 @@ const updateProduct = async function (req, res) {
       if (req.file) {
         if (product.image) {
           const currentImagePath = path.join(imagesDir, product.image);
+          console.log('ctim...', currentImagePath);
           if (fs.existsSync(currentImagePath)) {
             fs.unlinkSync(currentImagePath);
           }
@@ -111,13 +116,40 @@ const updateProduct = async function (req, res) {
       }
       jsonData[productIndex] = product;
       fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2));
-      return res.status(200).json(product);
+      res.status(200).json(product);
+    } else {
+      res.status(404).send('Product not found');
+    }
+  } catch (error) {
+    res.status(500).send('Error updating data: ' + error.message);
+  }
+};
+module.exports.updateProduct = updateProduct;
+
+const deleteProduct = async function (req, res) {
+  try {
+    const filePath = path.join(__dirname, 'data/products.json');
+    const data = fs.readFileSync(filePath, 'utf-8');
+    const jsonData = JSON.parse(data);
+    const productId = parseInt(req.params.id, 10);
+    const productIndex = jsonData.findIndex(obj => obj.id === productId);
+
+    if (productIndex !== -1) {
+      const product = jsonData[productIndex];
+      if (product.image) {
+        const imagePath = path.join(imagesDir, product.image);
+        if (fs.existsSync(imagePath)) {
+          fs.unlinkSync(imagePath);
+        }
+      }
+      jsonData.splice(productIndex, 1);
+      fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2));
+      return res.status(200).send('Product deleted successfully');
     } else {
       return res.status(404).send('Product not found');
     }
   } catch (error) {
-    return res.status(500).send('Error updating data: ' + error.message);
+    return res.status(500).send('Error deleting data: ' + error.message);
   }
 };
-
-module.exports.updateProduct = updateProduct;
+module.exports.deleteProduct = deleteProduct;
