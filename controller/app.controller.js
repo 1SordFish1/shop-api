@@ -35,7 +35,7 @@ module.exports.hello = hello;
 
 const getProducts = async function (req, res) {
   try {
-    const filePath = path.join(__dirname, 'data/products.json');
+    const filePath = path.join(__dirname, '../data/products.json');
     const data = fs.readFileSync(filePath, 'utf-8');
     const jsonData = JSON.parse(data);
     res.json(jsonData);
@@ -47,7 +47,7 @@ module.exports.getProducts = getProducts;
 
 const getProductById = async function (req, res) {
   try {
-    const filePath = path.join(__dirname, 'data/products.json');
+    const filePath = path.join(__dirname, '../data/products.json');
     const data = fs.readFileSync(filePath, 'utf-8');
     const jsonData = JSON.parse(data);
     const productId = parseInt(req.params.id, 10);
@@ -65,7 +65,7 @@ module.exports.getProductById = getProductById;
 
 const addProduct = async function (req, res) {
   try {
-    const filePath = path.join(__dirname, 'data/products.json');
+    const filePath = path.join(__dirname, '../data/products.json');
     const data = fs.readFileSync(filePath, 'utf-8');
     const jsonData = JSON.parse(data);
     const newObject = req.body;
@@ -87,7 +87,7 @@ module.exports.addProduct = addProduct;
 
 const updateProduct = async function (req, res) {
   try {
-    const filePath = path.join(__dirname, 'data/products.json');
+    const filePath = path.join(__dirname, '../data/products.json');
     const data = fs.readFileSync(filePath, 'utf-8');
     const jsonData = JSON.parse(data);
     const productId = parseInt(req.params.id, 10);
@@ -128,7 +128,7 @@ module.exports.updateProduct = updateProduct;
 
 const deleteProduct = async function (req, res) {
   try {
-    const filePath = path.join(__dirname, 'data/products.json');
+    const filePath = path.join(__dirname, '../data/products.json');
     const data = fs.readFileSync(filePath, 'utf-8');
     const jsonData = JSON.parse(data);
     const productId = parseInt(req.params.id, 10);
