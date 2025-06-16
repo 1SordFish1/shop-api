@@ -31,7 +31,7 @@ app.get('/hello', (req, res) => {
 
 // if (env === 'prod') {
 //   // Serverless for Vercel
-//   module.exports = serverless(app);
+  module.exports = serverless(app);
 // } else {
 //   // Local dev with app.listen
 //   app.listen(port, () => {
