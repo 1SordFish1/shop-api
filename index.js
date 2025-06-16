@@ -8,6 +8,11 @@ const allowedOrigins = ['http://localhost:4200'];
 
 console.log('env..', env);
 
+app.get("/", (req, res) => res.send("Express on Vercel"));
+
+app.listen(3000, () => console.log("Server ready on port 3000."));
+
+module.exports = app;
 // app.use(cors({
 //   origin: (origin, callback) => {
 //     if (!origin || allowedOrigins.includes(origin)) {
@@ -27,13 +32,9 @@ console.log('env..', env);
 // const s1 = require('./routes/s1');
 // app.use('/s1', s1);
 
-app.get('/hello', (req, res) => {
-  res.json({ message: 'Hello from Express!' });
-});
-
 // if (env === 'prod') {
 //   // Serverless for Vercel
-  module.exports = serverless(app);
+  // module.exports = serverless(app);
 // } else {
 //   // Local dev with app.listen
 //   app.listen(port, () => {
