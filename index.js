@@ -1,10 +1,12 @@
 const express = require('express');
 const app = express();
-const cors = require('cors');
+// const cors = require('cors');
 const port = 5000;
 const serverless = require('serverless-http');
 const env = process.env.ENVIRONMENT || 'dev';
 const allowedOrigins = ['http://localhost:4200'];
+
+console.log('env..', env);
 
 // app.use(cors({
 //   origin: (origin, callback) => {
