@@ -25,7 +25,7 @@ app.get("/", (req, res) => res.send("Express on Vercel"));
 // Handle preflight
 // app.options('*', cors());
 app.use(express.json());
-app.use('/data/images', express.static('data/images'));
+// app.use('/data/images', express.static('data/images'));
 const s1 = require('./routes/s1');
 app.use('/s1', s1);
 
