@@ -23,6 +23,11 @@ app.use('/data/images', express.static('data/images'));
 const s1 = require('./routes/s1');
 app.use('/s1', s1);
 
-app.listen(port, () => {
-  console.log(`Shop app listening at http://localhost:${port}`);
-});
+if (process.env.ENVIRONMENT === "prod") {
+  module.exports = app;
+} else {
+  app.listen(port, () => {
+    console.log(`Shop app listening at http://localhost:${port}`);
+  });
+}
+
