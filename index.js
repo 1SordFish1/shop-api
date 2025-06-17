@@ -23,7 +23,7 @@ app.options('*', cors());
 // app.use('/data/images', express.static('data/images'));
 // const s1 = require('./routes/s1');
 // app.use('/s1', s1);
-
+app.get("/", (req, res) => res.send("Express on Vercel"));
 app.get('/hello', appController.hello);
 app.get('/products', appController.getProducts);
 app.get('/products/:id', appController.getProductById);
